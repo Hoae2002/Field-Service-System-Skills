@@ -1,0 +1,4 @@
+interface:
+  display_name: "Field Service System Style"
+  short_description: "Mobile UI rules for Xiaojinglin field service"
+  default_prompt: "Use $field-service-system-style to design a 375x812 mobile city selection screen for 小精邻到家."
